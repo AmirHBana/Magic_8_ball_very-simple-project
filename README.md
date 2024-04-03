@@ -1,3 +1,8 @@
+<style>
+  h2 {
+    color: white;
+    background-color: blue;
+  }
+</style>
 
-
-<h2 style="color: blue;"> Magic 8 Ball </h2>
+<h2> Magic 8 Ball </h2>
