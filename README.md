@@ -1,3 +1,3 @@
 
 
-<h2 text-center style="color: blue;"><strong><b> Magic 8 Ball </b></strong></h2>
+<h2 style="color: blue;"> Magic 8 Ball </h2>
