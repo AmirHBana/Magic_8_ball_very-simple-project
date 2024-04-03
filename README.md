@@ -24,4 +24,4 @@
 <br>
 
 
-<h3> <strong> Made with love by <a href="https://github.com/AmirHBana" > Amir Hossien Banayi </a>, make sure to check my portfolio and my <a href="https://www.linkedin.com/in/amirhossien-banayikhalilabad/"> Linkdin </a>  💜🚀 </strong></h3>
+<h3> <strong> Made with love by <a href="https://github.com/AmirHBana" > Amir Hossien Banayi </a>, make sure to check my portfolio and my <a href="https://www.linkedin.com/in/amirhossien-banayikhalilabad/"> Linkdin </a>  ❤️🚀♥️ </strong></h3>
